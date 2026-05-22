@@ -213,4 +213,4 @@ Công cụ chép scripts, và các tập tin khác lên game server.
 **Mega**: [Tải về](https://mega.nz/file/II5wFZYT#6XCyrcJHlRrSHQKQQ_dG12sIef6-0rA9fySFMXpsRZU)
 
 **Mediafire**: [Tải về](https://www.mediafire.com/file/kbyox8j2hfq2p5r/WinSCP.7z/file)
-
+:))
